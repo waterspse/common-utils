@@ -7,7 +7,7 @@
 	<name>zhanggm-common-utils</name>
 	<description>zhanggm-common-utils</description>
 	<properties>
-		<junit-version>4.12</junit-version>
+		<junit-version>4.13.1</junit-version>
 	</properties>
 	<dependencies>
 		<!-- 单元测试 -->
